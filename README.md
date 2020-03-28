@@ -14,4 +14,6 @@ docker-alpine-server环境
 
 【Docker初探】第六节：Docker Swarm集群，及Windows下部署
 
+【Docker初探】第七节：Alpine下编译Nginx，并使用nginx-http-flv-module搭建视频直播服务
+
 原文链接：https://blog.csdn.net/highlevels/article/details/99626949
